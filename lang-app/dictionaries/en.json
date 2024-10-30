@@ -1,0 +1,18 @@
+{
+  "header": {
+    "links": {
+      "home": "Home",
+      "about": "About"
+    }
+  },
+  "home": {
+    "title": "Main page"
+  },
+  "about": {
+    "title": "About us",
+    "subtitle": "This is the about page of the app."
+  },
+  "footer": {
+    "copy_right": "&copy; 2024 My Next.js App"
+  }
+}

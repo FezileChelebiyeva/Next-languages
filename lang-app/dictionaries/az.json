@@ -1,0 +1,18 @@
+{
+  "header": {
+    "links": {
+      "home": "Əsas səhifə",
+      "about": "Haqqımızda"
+    }
+  },
+  "home": {
+    "title": "Əsas səhifə"
+  },
+  "about": {
+    "title": "Haqqımızda",
+    "subtitle": "Səhifə haqqında məlumat"
+  },
+  "footer": {
+    "copy_right": "&copy; 2024 Mənim Next.js proqramım"
+  }
+}
