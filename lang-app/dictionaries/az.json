@@ -1,4 +1,5 @@
 {
+  "lang": "az",
   "header": {
     "links": {
       "home": "Əsas səhifə",
@@ -13,6 +14,6 @@
     "subtitle": "Səhifə haqqında məlumat"
   },
   "footer": {
-    "copy_right": "&copy; 2024 Mənim Next.js proqramım"
+    "copy_right": "2024 Mənim Next.js proqramım"
   }
 }

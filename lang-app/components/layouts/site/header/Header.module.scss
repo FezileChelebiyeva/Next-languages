@@ -1,0 +1,38 @@
+#header {
+  padding: 10px 0;
+  .navbar {
+    display: flex;
+    justify-content: space-between;
+    .links {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      column-gap: 40px;
+      li {
+        a {
+          font-size: 18px;
+          font-weight: 500;
+        }
+      }
+    }
+    .langs {
+      position: relative;
+      .lang {
+        cursor: pointer;
+        width: 30px;
+        height: 30px;
+        border-radius: 50%;
+        border: 1px solid #eed;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 2px;
+      }
+      .other_langs {
+        position: absolute;
+        top: 32px;
+        left: 0;
+      }
+    }
+  }
+}

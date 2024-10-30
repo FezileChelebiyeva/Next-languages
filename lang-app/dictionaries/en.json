@@ -1,4 +1,5 @@
 {
+  "lang": "en",
   "header": {
     "links": {
       "home": "Home",
@@ -13,6 +14,6 @@
     "subtitle": "This is the about page of the app."
   },
   "footer": {
-    "copy_right": "&copy; 2024 My Next.js App"
+    "copy_right": "2024 My Next.js App"
   }
 }
